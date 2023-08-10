@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Doccure/static/css/main.073c9b0a.css",
-    "main.js": "/Doccure/static/js/main.336a4f2f.js",
+    "main.js": "/Doccure/static/js/main.0495ca24.js",
     "static/js/787.075bafe2.chunk.js": "/Doccure/static/js/787.075bafe2.chunk.js",
     "static/media/logo.svg": "/Doccure/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Doccure/index.html",
     "main.073c9b0a.css.map": "/Doccure/static/css/main.073c9b0a.css.map",
-    "main.336a4f2f.js.map": "/Doccure/static/js/main.336a4f2f.js.map",
+    "main.0495ca24.js.map": "/Doccure/static/js/main.0495ca24.js.map",
     "787.075bafe2.chunk.js.map": "/Doccure/static/js/787.075bafe2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.336a4f2f.js"
+    "static/js/main.0495ca24.js"
   ]
 }
